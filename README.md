@@ -20,11 +20,13 @@ Coming soon!
 ## Issue's
 Ben jij een bug tegen gekomen of crashde de app op jou telefoon?
 Maak dan een issue aan op deze manier:
+```
     Titel: [Crash] wat informatie
     Omschrijving:
     Toestelnaam: GT-3254i
     Android versie: 5.0.1
     Omschrijving: blablabla
+```
 
 ## Ideetje?
 Heb jij een vet idee hoe we de Mister app nog mooier/sneller/beter kunnen maken?
