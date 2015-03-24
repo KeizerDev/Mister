@@ -5,6 +5,10 @@ Wij zijn nu officieel in open beta!
 
 ## Screenshots
 
+![kiesschool](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png)
+
+![login](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png)
+
 ![splash](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png)
 
 ![home](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png)
