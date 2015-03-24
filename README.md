@@ -4,21 +4,13 @@ Dit is DE Magister app voor uw Android toestel, hiermee kunt u o.a. uw agenda en
 Wij zijn nu officieel in open beta!
 
 ## Screenshots
-
-![kiesschool](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png)
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png" alt="alt text" width="100px" height="100px">
-![login](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png)
-
-![splash](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png)
-
-![home](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png)
-
-![absentie](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png)
-
-![agenda](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png)
-
-![opdrachten](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png)
-
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png" alt="kiesschool" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png" alt="login" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png" alt="splash" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png" alt="home" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png" alt="absentie" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png" alt="agenda" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="499" width="280">
 ## Download's
 Download de hier [v1.0](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk)!
 
