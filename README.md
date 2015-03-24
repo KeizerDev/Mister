@@ -20,7 +20,7 @@ Wij zijn nu officieel in open beta!
 ![opdrachten](https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png)
 
 ## Download's
-Download de hier [v1.0!](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk)!
+Download de hier [v1.0](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk)!
 
 ### Changelog:
 Coming soon!
