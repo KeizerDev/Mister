@@ -12,7 +12,8 @@ Wij zijn nu officieel in open beta!
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png" alt="agenda" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="499" width="280">
 ## Download's
-Download de hier [v1.0](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk)!
+Iedere dag nieuwe builds!!
+Download de hier de [laatste versie!](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk)
 
 ### Changelog:
 Coming soon!
