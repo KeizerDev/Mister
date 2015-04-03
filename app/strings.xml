@@ -9,8 +9,8 @@
     <string name="menu_agenda">Agenda</string>
     <string name="menu_opdrachten">Opdrachten</string>
 
-    <string name="settings_loguit">Log uit.</string>
-    <string name="settings_loguit_description">Hiermee verwijder je alle opgeslagen gegevens.</string>
+    <string name="settings_loguit">Log uit</string>
+    <string name="settings_loguit_description">Hiermee verwijder je ook alle opgeslagen gegevens.</string>
 
     <string name="error_message_no_internet">No internet connection detected. Fallback on Database.</string>
     <string name="error_message_startup">Inloggen mislukt... Interne fout bij Magister of je wachtwoord is veranderd. Ga naar instellingen om opnieuw in te loggen</string>
