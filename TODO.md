@@ -1,8 +1,12 @@
 - [x] Make Mister work on the strings.xml file and publish it for people who wants to edit some strings and fix my typos :P.
 - [x] On login check user permissions (/api/account).
 - [x] expand menu item size divided by the count of items you've permission for to watch.
-- [ ] Implement cijfersfragment.
 - [x] Show different menus in every fragment(reload).
+- [ ] Find icon for `huiswerk`.
+- [ ] Show `huiswerk` icon when there is `huiswerk`. 
+- [ ] Implement cijfersfragment.
+- [ ] Agenda updater
+- [ ] Implement agendainfofragent
 - [ ] Show more info in the settings(get personal info on startup and storage them).
 - [ ] Make settings work.
 - Feel free to add more!
