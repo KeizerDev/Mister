@@ -84,9 +84,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="550.24805"
-     inkscape:cy="268.72657"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="284.46847"
+     inkscape:cy="309.83008"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,7 +170,7 @@
          id="g3500" />
     </g>
     <g
-       transform="matrix(0.79858362,0,0,0.79858362,412.17705,-36.07011)"
+       transform="matrix(0.79858362,0,0,0.79858362,412.17705,-12.07011)"
        id="g9432"
        style="fill:#004d86;fill-opacity:1;stroke:none"
        clip-path="url(#clipPath9662)">
@@ -1182,7 +1182,7 @@
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:0.94117647;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none"
        sodipodi:nodetypes="ccccsccccccccccccccccccccccccccccccccccccccccccccccccccc"
-       transform="matrix(0.80301528,0,0,0.79862882,414.47923,-34.502227)" />
+       transform="matrix(0.80301528,0,0,0.79862882,414.47923,-10.502227)" />
     <path
        sodipodi:type="arc"
        style="opacity:0.98999999;fill:none;stroke:#ffffff;stroke-width:6.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.20000005;stroke-opacity:0.94117647;stroke-dasharray:none"
@@ -1192,20 +1192,8 @@
        sodipodi:rx="142.25"
        sodipodi:ry="137.5"
        d="m 280,132.4248 a 142.25,137.5 0 1 1 -284.5,0 142.25,137.5 0 1 1 284.5,0 z"
-       transform="matrix(0.72905606,0,0,0.76474517,411.57253,603.24514)" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6257"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(42.546875,546.10581)"><flowRegion
-         id="flowRegion6259"><rect
-           id="rect6261"
-           width="367.67661"
-           height="72.841209"
-           x="400.02042"
-           y="344.43649" /></flowRegion><flowPara
-         id="flowPara6263"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.94117647;font-family:Roboto;-inkscape-font-specification:Roboto">Mister</flowPara></flowRoot>    <text
+       transform="matrix(0.72905606,0,0,0.76474517,411.57253,627.24514)" />
+    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="521.42859"
@@ -1221,14 +1209,26 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
        x="409.5498"
-       y="934.96112"
+       y="948.85962"
        id="text4341"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4343"
          x="409.5498"
-         y="934.96112"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto">De magister app</tspan></text>
+         y="948.85962"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto">De Magister app</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="454.14844"
+       y="892.37231"
+       id="text3270"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan3272"
+         x="454.14844"
+         y="892.37231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.94117647;font-family:Roboto;-inkscape-font-specification:Roboto">Mister</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
