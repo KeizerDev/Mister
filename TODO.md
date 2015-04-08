@@ -2,6 +2,7 @@
 - [x] On login check user permissions (/api/account).
 - [x] expand menu item size divided by the count of items you've permission for to watch.
 - [x] Show different menus in every fragment(reload).
+- [x] Rename packagename to nl.mister.
 - [ ] Find icon for `huiswerk`.
 - [ ] Find `huiswerk` best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
 - [ ] Implement cijfersfragment.
