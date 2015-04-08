@@ -3,7 +3,7 @@
 - [x] expand menu item size divided by the count of items you've permission for to watch.
 - [x] Show different menus in every fragment(reload).
 - [ ] Find icon for `huiswerk`.
-- [ ] Show `huiswerk` icon when there is `huiswerk`. 
+- [ ] Find `huiswerk` best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
 - [ ] Implement cijfersfragment.
 - [ ] Agenda updater
 - [ ] Implement agendainfofragent
