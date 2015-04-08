@@ -10,4 +10,5 @@
 - [ ] Implement agendainfofragent
 - [ ] Show more info in the settings(get personal info on startup and storage them).
 - [ ] Make settings work.
+- [ ] Add on screen back buttons. 
 - Feel free to add more!
