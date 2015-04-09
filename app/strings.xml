@@ -8,7 +8,11 @@
     <string name="menu_cijfers">Cijfers</string>
     <string name="menu_agenda">Agenda</string>
     <string name="menu_opdrachten">Opdrachten</string>
-
+    
+    <string name="setup_login_busy">Logging in...</string>
+    <string name="setup_login_failed">Gebruikersnaam of wachtwoord klopt niet.</string>
+    <string name="setup_login_success">U bent succesvol ingelogd.</string>
+    
     <string name="settings_loguit">Log uit</string>
     <string name="settings_loguit_description">Hiermee verwijder je ook alle opgeslagen gegevens.</string>
 
