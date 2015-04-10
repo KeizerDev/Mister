@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Mister</string>
-    <string name="action_settings">Settings</string>
     <string name="version">1.0</string>
     <string name="load_message">Inloggen...</string>
 
@@ -8,11 +7,11 @@
     <string name="menu_cijfers">Cijfers</string>
     <string name="menu_agenda">Agenda</string>
     <string name="menu_opdrachten">Opdrachten</string>
-    
+
     <string name="setup_login_busy">Inloggen...</string>
     <string name="setup_login_failed">Gebruikersnaam of wachtwoord klopt niet</string>
     <string name="setup_login_success">Je bent ingelogd</string>
-    
+
     <string name="settings_loguit">Log uit</string>
     <string name="settings_loguit_description">Hiermee verwijder je ook alle opgeslagen gegevens.</string>
 
@@ -20,5 +19,7 @@
     <string name="error_message_startup">Inloggen mislukt... Interne fout bij Magister of je wachtwoord is veranderd. Ga naar instellingen om opnieuw in te loggen</string>
     <string name="error_message_menu">Geen data beschikbaar voor vandaag.</string>
     <string name="error_message_agenda">Geen data beschikbaar voor deze dag.</string>
-</resources>
 
+    <string name="action_settings">Instellingen</string>
+    <string name="action_refresh">Herlaad</string>
+</resources>
