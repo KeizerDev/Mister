@@ -5,10 +5,11 @@
 - [x] Rename packagename to nl.mister.
 - [ ] Find icon for `huiswerk`.
 - [ ] Find `huiswerk` best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
-- [ ] Implement cijfersfragment.
-- [ ] Agenda updater
 - [ ] Implement agendainfofragent
+- [X] Implement cijfersfragment.
+- [ ] Implement cijfersfragmentinfo for your `cijfers` of each `vak`.
+- [ ] Agenda updater
 - [ ] Show more info in the settings(get personal info on startup and storage them).
 - [ ] Make settings work.
-- [ ] Add on screen back buttons. 
+- [x] Add on screen back buttons. 
 - Feel free to add more!
