@@ -13,9 +13,10 @@ Wij zijn nu officieel in open beta!
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachteninfo.png" alt="opdrachteninfo" height="499" width="280">
 ## Download's
-Iedere dag nieuwe builds! 
-***Je moet je cache legen als je de nieuwste versie wil gebruiken!***
-Download hier de [laatste versie!](https://raw.githubusercontent.com/KeizerDev/Mister/master/build/mister.apk) > `23:33 11-04-2015`
+Om de nieuwste versie te downloaden moet je de volgende stappen volgen:  
+
+1. Eerst moet je je aanmelden voor de MisterApp [groep](https://groups.google.com/forum/#!forum/misterapp).
+2. Als je wordt toegelaten kun je de app via [deze](https://play.google.com/apps/testing/nl.mister) pagina downloaden.
 
 ### Changelog:
 Coming soon!
