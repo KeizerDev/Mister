@@ -35,4 +35,4 @@ Omschrijving:
 ## Ideetje?
 Heb jij een vet idee over hoe we de Mister app nog mooier/sneller/beter kunnen maken?
 Aarzel dan niet maar laat het me weten!
-Dit kun je doen door middel van een issue of door me simpelweg te [mailen](robertjankeizer@gmail.com).
+Dit kun je doen door middel van een issue of door me simpelweg te [mailen](misterapp@outlook.com).
