@@ -8,10 +8,12 @@ Wij zijn nu officieel in open beta!
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png" alt="login" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png" alt="splash" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png" alt="home" height="499" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png" alt="absentie" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png" alt="agenda" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/cijfers.png" alt="cijfers" height="499" width="280">
 <img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="499" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachteninfo.png" alt="opdrachteninfo" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png" alt="absentie" height="499" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/instellingen.png" alt="instellingen" height="499" width="280">
+
 ## Download's
 Om de nieuwste versie te downloaden moet je de volgende stappen volgen:  
 
