@@ -3,13 +3,12 @@
 - [x] expand menu item size divided by the count of items you've permission for to watch.
 - [x] Show different menus in every fragment(reload).
 - [x] Rename packagename to nl.mister.
-- [ ] Find icon for `huiswerk`.
-- [ ] Find `huiswerk` best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
-- [ ] Implement agendainfofragent
-- [X] Implement cijfersfragment.
+- [x] Add on screen back buttons. 
+- [x] Find icon for `huiswerk`.
+- [x] Find best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
+- [x] Implement cijfersfragment.
 - [ ] Implement cijfersfragmentinfo for your `cijfers` of each `vak`.
 - [ ] Agenda updater
 - [ ] Show more info in the settings(get personal info on startup and storage them).
 - [ ] Make settings work.
-- [x] Add on screen back buttons. 
 - Feel free to add more!
