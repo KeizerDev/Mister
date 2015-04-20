@@ -7,8 +7,9 @@
 - [x] Find icon for `huiswerk`.
 - [x] Find best way to show `huiswerk` [#9](https://github.com/KeizerDev/Mister/issues/9). 
 - [x] Implement cijfersfragment.
-- [ ] Implement cijfersfragmentinfo for your `cijfers` of each `vak`.
-- [ ] Agenda updater
+- [x] Implement cijfersfragmentinfo for your `cijfers` of each `vak`.
+- [x] Agenda updater
+- [ ] Expand `huiswerk` on click in menu
 - [ ] Show more info in the settings(get personal info on startup and storage them).
-- [ ] Make settings work.
+- [x] Make settings work.
 - Feel free to add more!
