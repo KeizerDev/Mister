@@ -14,6 +14,10 @@
 
     <string name="settings_loguit">Log uit</string>
     <string name="settings_loguit_description">Hiermee verwijder je ook alle opgeslagen gegevens.</string>
+    <string name="settings_email">Email</string>
+    <string name="settings_email_description">Ben jij een fout tegen gekomen of werkt Mister niet naar behoren, aarzel niet om me te mailen!</string>
+    <string name="settings_website">Website</string>
+    <string name="settings_website_description">https://github.com/KeizerDev/Mister</string>
 
     <string name="error_message_no_internet">Geen internetverbinding gevonden. Opgeslagen gegevens worden gebruikt.</string>
     <string name="error_message_startup">Inloggen mislukt... Interne fout bij Magister of je wachtwoord is veranderd. Ga naar instellingen om opnieuw in te loggen</string>
