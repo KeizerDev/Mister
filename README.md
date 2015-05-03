@@ -4,15 +4,15 @@ Dit is DE Magister app voor uw Android toestel, hiermee kun je o.a. jouw agenda 
 Wij zijn nu officieel in open beta!
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png" alt="kiesschool" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png" alt="login" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png" alt="splash" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png" alt="home" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png" alt="agenda" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/cijfers.png" alt="cijfers" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png" alt="absentie" height="600" width="280">
-<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/instellingen.png" alt="instellingen" height="600" width="280">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/kiesschool.png" alt="kiesschool" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/login.png" alt="login" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/splash.png" alt="splash" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/home.png" alt="home" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/agenda.png" alt="agenda" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/cijfers.png" alt="cijfers" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/opdrachten.png" alt="opdrachten" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/absentie.png" alt="absentie" height="600" width="360">
+<img src="https://raw.githubusercontent.com/KeizerDev/Mister/master/screenshots/instellingen.png" alt="instellingen" height="600" width="360">
 
 ## Download's
 Om de nieuwste versie te downloaden moet je de volgende stappen volgen:  
