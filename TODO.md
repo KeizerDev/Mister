@@ -9,7 +9,7 @@
 - [x] Implement cijfersfragment.
 - [x] Implement cijfersfragmentinfo for your `cijfers` of each `vak`.
 - [x] Agenda updater
-- [ ] Expand `huiswerk` on click in menu
-- [ ] Show more info in the settings(get personal info on startup and storage them).
+- [x] Expand `huiswerk` on click in menu
+- [x] Show more info in the settings(get personal info on startup and storage them).
 - [x] Make settings work.
 - Feel free to add more!
